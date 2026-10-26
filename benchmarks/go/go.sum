@@ -4,3 +4,5 @@ github.com/go-ruby-matrix/matrix v0.0.0-20260717070327-18d9569abdf3 h1:mouC2fDHV
 github.com/go-ruby-matrix/matrix v0.0.0-20260717070327-18d9569abdf3/go.mod h1:ZrmXlz95j9VE3j1bUeq8a5CTWAKoEiYrkh/ON9ns9iE=
 github.com/go-ruby-matrix/matrix v0.0.0-20260916094843-418993c373b7 h1:ZK6Fj4ALwYDnEd7gOJLXNl+/1yVlxljyJgPzuAj9Dgc=
 github.com/go-ruby-matrix/matrix v0.0.0-20260916094843-418993c373b7/go.mod h1:ZrmXlz95j9VE3j1bUeq8a5CTWAKoEiYrkh/ON9ns9iE=
+github.com/go-ruby-matrix/matrix v0.0.0-20261025191443-9cf274fa5d1e h1:zzT4XTZtOt6PgHqY4xKw4eFIZ70rEjn1udCAOodetrU=
+github.com/go-ruby-matrix/matrix v0.0.0-20261025191443-9cf274fa5d1e/go.mod h1:wTyPhYUjQbBKbGYBxf7pi3NFhCtzprww+9VA3VittUg=
